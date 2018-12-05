@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Soa\\EventSourcing\\": "src/"
+      "Soa\\EventSourcingMiddleware\\": "src/"
     }
   }
 }
